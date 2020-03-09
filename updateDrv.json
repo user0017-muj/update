@@ -1,10 +1,5 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": "1",
-  "url": "https://drive.google.com/file/d/1vQhAz7ag332Ug5jzBK-gaMX5TuWGZjyh/view?usp=sharing",
-  "releaseNotes": [
-    "- First evolutionxx",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+	"versionCode": 1,
+	"cancellable": false,
+	"url": "https://drive.google.com/file/d/1vQhAz7ag332Ug5jzBK-gaMX5TuWGZjyh/view?usp=sharing"
 }
