@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "1.2.0",
+  "new_version": "1.1.0",
   "apk_file_url": "http://support.digicart.lk/intl/version/app.apk",
   "update_log": "1，Bug Fix\r\n2，New Design\r\n3，New Changes\r\n4，Improved \r\n5，More...",
   "target_size": "5M",
   "new_md5":"ab55ce55Ac4bcP408cPb8c1Aaeac179c5f6f",
-  "constraint": true
+  "constraint": false
 }
