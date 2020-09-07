@@ -4,5 +4,7 @@
   "message": "We're Coming Soon...",
   "image_url": "1，Bug Fix\r\n2，New Design\r\n3，New Changes\r\n4，Improved \r\n5，More...",
   "positive_btn_txt": "5M",
+  "background_color": "#ccc",
+  "image_url":1,
   "cancelable": false
 }
