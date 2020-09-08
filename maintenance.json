@@ -2,7 +2,7 @@
   "show": true,
   "title": "AwesomeXX ☔ ⛈ 🌩",
   "message": "What can we improve? Your feedback is always welcomeX.",
-  "image_type": "notify",
+  "image_type": "rain",
   "positive_btn_txt": "I UNDERSTAND",
   "background_color": "#ccc",
   "cancelable": false
