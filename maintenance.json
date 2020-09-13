@@ -1,7 +1,7 @@
 {
   "show": true,
   "title": "We're coming back 💤",
-  "message": "What can we improve? Your feedback is always welcome. Call our support: +94 771 270 101",
+  "message": "What can we improve? Your feedback is always welcome. Call our support: <b>+94 771 270 101</b>",
   "image_type": "night",
   "positive_btn_txt": "I WILL COME LATER",
   "background_color": "#ccc",
