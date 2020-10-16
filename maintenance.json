@@ -1,8 +1,8 @@
 {
   "show": false,
   "title": "We're coming back 💤",
-  "message": "Our service time is 8.30AM - 9.30PM. If you're looking for more details, please contact our support: +94 771 270 101",
-  "image_type": "night",
+  "message": "If you're looking for more details, please contact our support: +94 771 270 101",
+  "image_type": "night3",
   "positive_btn_txt": "I WILL COME LATER",
   "background_color": "#ccc",
   "cancelable": false
